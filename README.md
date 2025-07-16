@@ -41,7 +41,7 @@ I'm a versatile **Full-Stack Developer** dedicated to crafting robust and scalab
 ## 🎓 Education
 
 📍 **SRM Institute of Science and Technology, Chennai**
-*Master of Computer Application (MCA) — CGPA: 9.39 (2024–2026)*
+*Master of Computer Application (MCA) — CGPA: 9.46 (2024–2026)*
 
 📍 **Pillai College of Arts, Commerce and Science, Mumbai**
 *BSc Computer Science — CGPA: 8.95 (2021–2024)*
