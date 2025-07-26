@@ -7,7 +7,9 @@
 <div align="center">
   <h3>👋 Hi, I'm Aditya Pawar, MCA @ SRMIST | Ex-Pillai College | Tech enthusiast.</h3>
   
-  🔭 Currently working on improving my DSA skills and building web projects. 💡 Interested in AI, open-source, and all things tech.
+  🔭 Currently working on improving my DSA skills and building web projects.
+  💡 Interested in AI, open-source, and all things tech.
+  🛠️ Previous Tech Stack: Python, JavaScript, React, Node.js, MongoDB, MySQL, HTML, CSS.
 </div>
 
 <!-- Contact Badges -->
